@@ -42,11 +42,11 @@
  ### 📕 Latest Blog Posts
  # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [JavaScript Higher Order Functions](https://dustinchesnutt4.medium.com/javascript-higher-order-functions-6d4824cd6dca?source=rss-340343617389------2)
+- [Getting the Job After Bootcamp](https://medium.com/geekculture/getting-the-job-after-bootcamp-bc6ef4552802?source=rss-340343617389------2)
+- [Observables: A High-Level Explanation](https://medium.com/geekculture/observables-a-high-level-explanation-69bf826f9aad?source=rss-340343617389------2)
+- [Things I Wish We Learned In Bootcamp](https://medium.com/geekculture/things-i-wish-we-learned-in-bootcamp-1a05e4141bac?source=rss-340343617389------2)
+- [What my first job in web development taught me.](https://dustinchesnutt4.medium.com/what-my-first-job-in-web-development-taught-me-2ead6a81ec82?source=rss-340343617389------2)
 <!-- BLOG-POST-LIST:END -->
 
 
