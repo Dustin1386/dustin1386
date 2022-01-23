@@ -42,6 +42,11 @@
  ### 📕 Latest Blog Posts
  # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Higher Order Functions](https://dustinchesnutt4.medium.com/javascript-higher-order-functions-6d4824cd6dca?source=rss-340343617389------2)
+- [Getting the Job After Bootcamp](https://medium.com/geekculture/getting-the-job-after-bootcamp-bc6ef4552802?source=rss-340343617389------2)
+- [Observables: A High-Level Explanation](https://medium.com/geekculture/observables-a-high-level-explanation-69bf826f9aad?source=rss-340343617389------2)
+- [Things I Wish We Learned In Bootcamp](https://medium.com/geekculture/things-i-wish-we-learned-in-bootcamp-1a05e4141bac?source=rss-340343617389------2)
+- [What my first job in web development taught me.](https://dustinchesnutt4.medium.com/what-my-first-job-in-web-development-taught-me-2ead6a81ec82?source=rss-340343617389------2)
 <!-- BLOG-POST-LIST:END -->
 
 
