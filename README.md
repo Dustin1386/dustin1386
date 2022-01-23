@@ -44,10 +44,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<a href="https://github.com/Dustin1386/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dustin1386&repo=github-readme-stats" />
-</a>
-
 
 
 
